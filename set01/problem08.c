@@ -45,7 +45,7 @@ int input_array_size()
 {
     int n;
     printf("please enter the size of array");
-    sscanf("%d",n);
+    scanf("%d",n);
     return n;
 }
 
