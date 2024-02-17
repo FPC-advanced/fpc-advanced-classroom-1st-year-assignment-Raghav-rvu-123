@@ -1,0 +1,430 @@
+Compilation started at 2/8/2024, 12:35:14 AM
+Compilation finished at 2/8/2024, 12:35:15 AM
+Compilation started at 2/13/2024, 2:37:09 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'str_reverse':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:89:16: warning: assignment makes pointer from integer without a cast [-Wint-conversion]
+         rev_str=str[i];
+                ^
+Compilation finished at 2/13/2024, 2:37:10 PM
+Compilation started at 2/13/2024, 2:37:44 PM
+Compilation finished at 2/13/2024, 2:37:44 PM
+Compilation started at 2/13/2024, 2:38:06 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'str_reverse':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:87:19: warning: comparison between pointer and integer
+     for(int i=0; i<=str ; i--)
+                   ^~
+Compilation finished at 2/13/2024, 2:38:06 PM
+Compilation started at 2/13/2024, 2:38:20 PM
+Compilation finished at 2/13/2024, 2:38:20 PM
+Compilation started at 2/14/2024, 2:01:51 PM
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/14/2024, 2:01:51 PM
+Compilation started at 2/14/2024, 2:01:56 PM
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/14/2024, 2:01:57 PM
+Compilation started at 2/14/2024, 2:02:03 PM
+Compilation finished at 2/14/2024, 2:02:04 PM
+Compilation started at 2/15/2024, 11:16:58 AM
+Compilation finished at 2/15/2024, 11:16:59 AM
+Compilation started at 2/15/2024, 11:26:13 AM
+Compilation finished at 2/15/2024, 11:26:13 AM
+Compilation started at 2/15/2024, 11:47:15 AM
+Compilation finished at 2/15/2024, 11:47:16 AM
+Compilation started at 2/15/2024, 1:15:25 PM
+Compilation finished at 2/15/2024, 1:15:26 PM
+Compilation started at 2/15/2024, 1:15:43 PM
+Compilation finished at 2/15/2024, 1:15:43 PM
+Compilation started at 2/15/2024, 1:16:07 PM
+Compilation finished at 2/15/2024, 1:16:07 PM
+Compilation started at 2/15/2024, 1:17:50 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:112:18: error: 'str' undeclared (first use in this function)
+     for(int i=0; str[i]!='\0'; i++)
+                  ^~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:112:18: note: each undeclared identifier is reported only once for each function it appears in
+Compilation finished at 2/15/2024, 1:17:50 PM
+Compilation started at 2/15/2024, 1:18:32 PM
+Compilation finished at 2/15/2024, 1:18:32 PM
+Compilation started at 2/15/2024, 1:19:02 PM
+Compilation finished at 2/15/2024, 1:19:02 PM
+Compilation started at 2/15/2024, 1:19:19 PM
+Compilation finished at 2/15/2024, 1:19:22 PM
+Compilation started at 2/15/2024, 1:19:24 PM
+Compilation finished at 2/15/2024, 1:19:25 PM
+Compilation started at 2/15/2024, 1:22:50 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'str_reverse':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:94:29: error: 'i' undeclared (first use in this function)
+     for(int j=count; j<=str[i]; j-- )
+                             ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:94:29: note: each undeclared identifier is reported only once for each function it appears in
+Compilation finished at 2/15/2024, 1:22:50 PM
+Compilation started at 2/15/2024, 1:23:27 PM
+Compilation finished at 2/15/2024, 1:23:27 PM
+Compilation started at 2/15/2024, 1:24:07 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:16: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&a, &str_reverse);
+                ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 1:24:07 PM
+Compilation started at 2/15/2024, 1:28:11 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:16: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&a, &str_reverse);
+                ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 1:28:12 PM
+Compilation started at 2/15/2024, 1:28:40 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:16: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&a, &str_reverse);
+                ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 1:28:41 PM
+Compilation started at 2/15/2024, 1:29:08 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:16: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&a, &str_reverse);
+                ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 1:29:09 PM
+Compilation started at 2/15/2024, 1:29:37 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a, &str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:15: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a, &str_reverse);
+               ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 1:29:37 PM
+Compilation started at 2/15/2024, 1:29:51 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 1:29:51 PM
+Compilation started at 2/15/2024, 1:30:13 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 1:30:13 PM
+Compilation started at 2/15/2024, 1:30:51 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 1:30:51 PM
+Compilation started at 2/15/2024, 1:31:15 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 1:31:16 PM
+Compilation started at 2/15/2024, 1:31:18 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 1:31:19 PM
+Compilation started at 2/15/2024, 3:01:17 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 3:01:17 PM
+Compilation started at 2/15/2024, 3:01:30 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 3:01:30 PM
+Compilation started at 2/15/2024, 3:01:57 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 3:01:57 PM
+Compilation started at 2/15/2024, 3:02:41 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 3:02:42 PM
+Compilation started at 2/15/2024, 3:03:23 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+Compilation finished at 2/15/2024, 3:03:23 PM
+Compilation started at 2/15/2024, 3:03:41 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/15/2024, 3:03:41 PM
+Compilation started at 2/15/2024, 3:03:46 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/15/2024, 3:03:46 PM
+Compilation started at 2/15/2024, 3:03:59 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/15/2024, 3:03:59 PM
+Compilation started at 2/15/2024, 3:04:10 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/15/2024, 3:04:11 PM
+Compilation started at 2/15/2024, 3:04:41 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'str_reverse':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:92:15: warning: initialization makes integer from pointer without a cast [-Wint-conversion]
+     for(int i=str, j=0;j<str[i]; j--,i++ )
+               ^~~
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/15/2024, 3:04:42 PM
+Compilation started at 2/15/2024, 3:12:01 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/15/2024, 3:12:01 PM
+Compilation started at 2/15/2024, 3:12:05 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/15/2024, 3:12:05 PM
+Compilation started at 2/15/2024, 3:12:28 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/15/2024, 3:12:28 PM
+Compilation started at 2/15/2024, 3:12:50 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:12: warning: passing argument 1 of 'output' makes pointer from integer without a cast [-Wint-conversion]
+     output(a,str_reverse);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'char'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:74:14: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(a,str_reverse);
+              ^~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.c:67:6: note: expected 'char *' but argument is of type 'void (*)(char *, char *)'
+ void output(char *a, char *rev_str);
+      ^~~~~~
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/15/2024, 3:12:52 PM
+Compilation started at 2/15/2024, 3:14:33 PM
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/15/2024, 3:14:34 PM
+Compilation started at 2/15/2024, 3:14:42 PM
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem06.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/15/2024, 3:14:42 PM

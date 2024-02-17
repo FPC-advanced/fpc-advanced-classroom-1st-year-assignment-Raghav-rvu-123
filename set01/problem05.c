@@ -33,7 +33,12 @@ void output(int a, int b, int c, int largest);
 
 int main()
 {
-
+    int a=input();
+    int b=input();
+    int c= input();
+    int largest=compare(a,b,c);
+    output(a,b,c,largest);
+    return 0;
 }
 
 int input()
@@ -41,18 +46,18 @@ int input()
     int x; 
     printf("Please enter the value");
     scanf("%d",&x);
-    return 0;
+    return x;
 }
 
 int compare(int a,int b, int c)
 {
     int largest;
-    if(a<=b && a<=c )
+    if(a>=b && a>=c )
     {
         largest=a;
     }
 
-    else if(b<=a && b<=c)
+    else if(b>=a && b>=c)
     {
         largest=b;
     }

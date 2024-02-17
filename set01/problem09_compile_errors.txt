@@ -1,0 +1,80 @@
+Compilation started at 2/5/2024, 12:07:28 PM
+Compilation finished at 2/5/2024, 12:07:28 PM
+Compilation started at 2/15/2024, 3:54:15 PM
+Compilation finished at 2/15/2024, 3:54:15 PM
+Compilation started at 2/15/2024, 4:09:18 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem09.c: In function 'square_root':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem09.c:86:13: error: invalid operands to binary % (have 'float' and 'float')
+         if(a%n==0)
+             ^
+Compilation finished at 2/15/2024, 4:09:19 PM
+Compilation started at 2/15/2024, 4:09:54 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem09.c: In function 'square_root':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem09.c:86:13: error: invalid operands to binary % (have 'float' and 'float')
+         if(a%n==0)
+             ^
+Compilation finished at 2/15/2024, 4:09:54 PM
+Compilation started at 2/15/2024, 4:10:07 PM
+Compilation finished at 2/15/2024, 4:10:07 PM
+Compilation started at 2/15/2024, 10:55:00 PM
+Compilation finished at 2/15/2024, 10:55:01 PM
+Compilation started at 2/15/2024, 10:55:39 PM
+Compilation finished at 2/15/2024, 10:55:40 PM
+Compilation started at 2/15/2024, 11:12:10 PM
+Compilation finished at 2/15/2024, 11:12:10 PM
+Compilation started at 2/15/2024, 11:12:34 PM
+Compilation finished at 2/15/2024, 11:12:35 PM
+Compilation started at 2/15/2024, 11:13:20 PM
+Compilation finished at 2/15/2024, 11:13:20 PM
+Compilation started at 2/15/2024, 11:13:48 PM
+Compilation finished at 2/15/2024, 11:13:49 PM
+Compilation started at 2/15/2024, 11:28:47 PM
+Compilation finished at 2/15/2024, 11:28:48 PM
+Compilation started at 2/15/2024, 11:29:28 PM
+Compilation finished at 2/15/2024, 11:29:29 PM
+Compilation started at 2/15/2024, 11:30:01 PM
+Compilation finished at 2/15/2024, 11:30:01 PM
+Compilation started at 2/15/2024, 11:30:21 PM
+Compilation finished at 2/15/2024, 11:30:21 PM
+Compilation started at 2/15/2024, 11:30:41 PM
+Compilation finished at 2/15/2024, 11:30:42 PM
+Compilation started at 2/15/2024, 11:32:54 PM
+Compilation finished at 2/15/2024, 11:32:55 PM
+Compilation started at 2/15/2024, 11:38:36 PM
+Compilation finished at 2/15/2024, 11:38:37 PM
+Compilation started at 2/15/2024, 11:39:53 PM
+Compilation finished at 2/15/2024, 11:39:53 PM
+Compilation started at 2/15/2024, 11:41:01 PM
+Compilation finished at 2/15/2024, 11:41:01 PM
+Compilation started at 2/15/2024, 11:41:45 PM
+Compilation finished at 2/15/2024, 11:41:45 PM
+Compilation started at 2/15/2024, 11:42:06 PM
+Compilation finished at 2/15/2024, 11:42:07 PM
+Compilation started at 2/15/2024, 11:44:40 PM
+Compilation finished at 2/15/2024, 11:44:41 PM
+Compilation started at 2/15/2024, 11:45:28 PM
+Compilation finished at 2/15/2024, 11:45:28 PM
+Compilation started at 2/15/2024, 11:45:42 PM
+Compilation finished at 2/15/2024, 11:45:43 PM
+Compilation started at 2/16/2024, 10:35:24 AM
+Compilation finished at 2/16/2024, 10:35:25 AM
+Compilation started at 2/16/2024, 10:35:52 AM
+Compilation finished at 2/16/2024, 10:35:52 AM
+Compilation started at 2/16/2024, 10:36:10 AM
+Compilation finished at 2/16/2024, 10:36:10 AM
+Compilation started at 2/16/2024, 10:36:27 AM
+Compilation finished at 2/16/2024, 10:36:27 AM
+Compilation started at 2/16/2024, 10:37:10 AM
+Compilation finished at 2/16/2024, 10:37:11 AM
+Compilation started at 2/16/2024, 10:38:29 AM
+Compilation finished at 2/16/2024, 10:38:29 AM
+Compilation started at 2/16/2024, 10:39:57 AM
+Compilation finished at 2/16/2024, 10:39:57 AM
+Compilation started at 2/16/2024, 10:40:09 AM
+Compilation finished at 2/16/2024, 10:40:10 AM
+Compilation started at 2/16/2024, 10:40:24 AM
+Compilation finished at 2/16/2024, 10:40:24 AM
+Compilation started at 2/16/2024, 10:47:24 AM
+Compilation finished at 2/16/2024, 10:47:24 AM
+Compilation started at 2/16/2024, 10:47:43 AM
+Compilation finished at 2/16/2024, 10:47:44 AM

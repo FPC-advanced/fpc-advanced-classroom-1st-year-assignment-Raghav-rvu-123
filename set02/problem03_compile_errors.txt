@@ -1,0 +1,91 @@
+Compilation started at 2/7/2024, 3:38:24 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c: In function 'is_composite':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c:111:15: error: subscripted value is neither array nor pointer nor vector
+         if(i*n[i]=n)
+               ^
+Compilation finished at 2/7/2024, 3:38:24 PM
+Compilation started at 2/7/2024, 3:38:47 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c: In function 'is_composite':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c:111:15: error: subscripted value is neither array nor pointer nor vector
+         if(i*n[i]=n)
+               ^
+Compilation finished at 2/7/2024, 3:38:47 PM
+Compilation started at 2/7/2024, 3:53:30 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c: In function 'is_composite':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c:110:18: error: stray '\' in program
+     for(i=1; i<=n\2; i++)
+                  ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c:110:19: error: expected ';' before numeric constant
+     for(i=1; i<=n\2; i++)
+                   ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c:112:18: error: lvalue required as left operand of assignment
+         if(i*a[n]=n);
+                  ^
+Compilation finished at 2/7/2024, 3:53:30 PM
+Compilation started at 2/7/2024, 3:53:40 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c: In function 'is_composite':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c:110:18: error: stray '\' in program
+     for(i=1; i<=n\2; i++)
+                  ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c:110:19: error: expected ';' before numeric constant
+     for(i=1; i<=n\2; i++)
+                   ^
+Compilation finished at 2/7/2024, 3:53:41 PM
+Compilation started at 2/7/2024, 3:53:51 PM
+Compilation finished at 2/7/2024, 3:53:51 PM
+Compilation started at 2/7/2024, 3:54:44 PM
+Compilation finished at 2/7/2024, 3:54:44 PM
+Compilation started at 2/7/2024, 3:56:23 PM
+Compilation finished at 2/7/2024, 3:56:24 PM
+Compilation started at 2/7/2024, 4:09:14 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c: In function 'is_composite':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c:110:17: error: lvalue required as left operand of assignment
+     for(i=1; i%n=0; i++)
+                 ^
+Compilation finished at 2/7/2024, 4:09:15 PM
+Compilation started at 2/7/2024, 4:09:23 PM
+Compilation finished at 2/7/2024, 4:09:24 PM
+Compilation started at 2/7/2024, 4:09:31 PM
+Compilation finished at 2/7/2024, 4:09:32 PM
+Compilation started at 2/7/2024, 4:10:27 PM
+Compilation finished at 2/7/2024, 4:10:27 PM
+Compilation started at 2/7/2024, 4:11:00 PM
+Compilation finished at 2/7/2024, 4:11:01 PM
+Compilation started at 2/7/2024, 4:11:08 PM
+Compilation finished at 2/7/2024, 4:11:09 PM
+Compilation started at 2/7/2024, 4:11:14 PM
+Compilation finished at 2/7/2024, 4:11:14 PM
+Compilation started at 2/7/2024, 4:11:29 PM
+Compilation finished at 2/7/2024, 4:11:30 PM
+Compilation started at 2/7/2024, 10:54:39 PM
+Compilation finished at 2/7/2024, 10:54:40 PM
+Compilation started at 2/7/2024, 10:59:56 PM
+Compilation finished at 2/7/2024, 10:59:56 PM
+Compilation started at 2/7/2024, 11:01:07 PM
+Compilation finished at 2/7/2024, 11:01:08 PM
+Compilation started at 2/7/2024, 11:17:43 PM
+Compilation finished at 2/7/2024, 11:17:43 PM
+Compilation started at 2/7/2024, 11:18:07 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c: In function 'output':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem03.c:120:15: error: expected expression before '>' token
+     if(result=>2)
+               ^
+Compilation finished at 2/7/2024, 11:18:07 PM
+Compilation started at 2/7/2024, 11:18:21 PM
+Compilation finished at 2/7/2024, 11:18:21 PM
+Compilation started at 2/7/2024, 11:18:27 PM
+Compilation finished at 2/7/2024, 11:18:28 PM
+Compilation started at 2/7/2024, 11:19:34 PM
+Compilation finished at 2/7/2024, 11:19:35 PM
+Compilation started at 2/7/2024, 11:19:38 PM
+Compilation finished at 2/7/2024, 11:19:39 PM
+Compilation started at 2/7/2024, 11:21:18 PM
+Compilation finished at 2/7/2024, 11:21:18 PM
+Compilation started at 2/7/2024, 11:21:21 PM
+Compilation finished at 2/7/2024, 11:21:22 PM
+Compilation started at 2/7/2024, 11:22:16 PM
+Compilation finished at 2/7/2024, 11:22:17 PM
+Compilation started at 2/7/2024, 11:40:38 PM
+Compilation finished at 2/7/2024, 11:40:39 PM
+Compilation started at 2/7/2024, 11:40:47 PM
+Compilation finished at 2/7/2024, 11:40:47 PM

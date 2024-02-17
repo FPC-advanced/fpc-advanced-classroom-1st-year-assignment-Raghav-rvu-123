@@ -1,0 +1,134 @@
+Compilation started at 2/6/2024, 2:03:28 PM
+C:\Users\Dell\AppData\Local\Temp\cc6eSr7h.o: In function `main':
+c:/Users/Dell/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123/set01/problem10.c:37: undefined reference to `input_two_strings'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/6/2024, 2:03:29 PM
+Compilation started at 2/6/2024, 2:05:26 PM
+C:\Users\Dell\AppData\Local\Temp\ccTI16xi.o: In function `main':
+c:/Users/Dell/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123/set01/problem10.c:37: undefined reference to `input_two_strings'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/6/2024, 2:05:27 PM
+Compilation started at 2/6/2024, 2:05:59 PM
+Compilation finished at 2/6/2024, 2:05:59 PM
+Compilation started at 2/6/2024, 2:06:45 PM
+Compilation finished at 2/6/2024, 2:06:45 PM
+Compilation started at 2/6/2024, 2:36:28 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:82:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&str1, &str2);
+                       ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:74:6: note: expected 'char *' but argument is of type 'char (*)[100]'
+ void input_two_strings(char *str1, char *str2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:82:30: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&str1, &str2);
+                              ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:74:6: note: expected 'char *' but argument is of type 'char (*)[100]'
+ void input_two_strings(char *str1, char *str2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:83:26: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     result=stringcompare(&str1, &str2);
+                          ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:75:5: note: expected 'char *' but argument is of type 'char (*)[100]'
+ int stringcompare(char *str1, char *str2);
+     ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:83:33: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     result=stringcompare(&str1, &str2);
+                                 ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:75:5: note: expected 'char *' but argument is of type 'char (*)[100]'
+ int stringcompare(char *str1, char *str2);
+     ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:84:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&str1, &str2, result);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:76:6: note: expected 'char *' but argument is of type 'char (*)[100]'
+ void output(char *str1, char *str2, int result);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:84:19: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&str1, &str2, result);
+                   ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:76:6: note: expected 'char *' but argument is of type 'char (*)[100]'
+ void output(char *str1, char *str2, int result);
+      ^~~~~~
+Compilation finished at 2/6/2024, 2:36:29 PM
+Compilation started at 2/6/2024, 2:39:05 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:82:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&str1, &str2);
+                       ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:74:6: note: expected 'char *' but argument is of type 'char (*)[100]'
+ void input_two_strings(char *str1, char *str2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:82:30: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&str1, &str2);
+                              ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:74:6: note: expected 'char *' but argument is of type 'char (*)[100]'
+ void input_two_strings(char *str1, char *str2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:83:26: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     result=stringcompare(&str1, &str2);
+                          ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:75:5: note: expected 'char *' but argument is of type 'char (*)[100]'
+ int stringcompare(char *str1, char *str2);
+     ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:83:33: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     result=stringcompare(&str1, &str2);
+                                 ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:75:5: note: expected 'char *' but argument is of type 'char (*)[100]'
+ int stringcompare(char *str1, char *str2);
+     ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:84:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&str1, &str2, result);
+            ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:76:6: note: expected 'char *' but argument is of type 'char (*)[100]'
+ void output(char *str1, char *str2, int result);
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:84:19: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&str1, &str2, result);
+                   ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:76:6: note: expected 'char *' but argument is of type 'char (*)[100]'
+ void output(char *str1, char *str2, int result);
+      ^~~~~~
+Compilation finished at 2/6/2024, 2:39:06 PM
+Compilation started at 2/6/2024, 2:40:28 PM
+Compilation finished at 2/6/2024, 2:40:29 PM
+Compilation started at 2/6/2024, 2:40:56 PM
+Compilation finished at 2/6/2024, 2:40:56 PM
+Compilation started at 2/6/2024, 2:41:36 PM
+Compilation finished at 2/6/2024, 2:41:37 PM
+Compilation started at 2/6/2024, 2:43:00 PM
+Compilation finished at 2/6/2024, 2:43:01 PM
+Compilation started at 2/6/2024, 2:43:32 PM
+Compilation finished at 2/6/2024, 2:43:33 PM
+Compilation started at 2/6/2024, 2:50:15 PM
+Compilation finished at 2/6/2024, 2:50:16 PM
+Compilation started at 2/6/2024, 2:51:35 PM
+Compilation finished at 2/6/2024, 2:51:36 PM
+Compilation started at 2/6/2024, 2:53:27 PM
+Compilation finished at 2/6/2024, 2:53:28 PM
+Compilation started at 2/6/2024, 3:00:34 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c: In function 'stringcompare':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:110:19: error: 'i' undeclared (first use in this function)
+       return str1[i]-str2[i];
+                   ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:110:19: note: each undeclared identifier is reported only once for each function it appears in
+Compilation finished at 2/6/2024, 3:00:34 PM
+Compilation started at 2/6/2024, 3:00:51 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c: In function 'stringcompare':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:110:19: error: 'i' undeclared (first use in this function)
+       return str1[i]-str2[i];
+                   ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem10.c:110:19: note: each undeclared identifier is reported only once for each function it appears in
+Compilation finished at 2/6/2024, 3:00:51 PM
+Compilation started at 2/6/2024, 3:01:10 PM
+Compilation finished at 2/6/2024, 3:01:11 PM
+Compilation started at 2/6/2024, 3:01:23 PM
+Compilation finished at 2/6/2024, 3:01:24 PM
+Compilation started at 2/6/2024, 3:02:36 PM
+Compilation finished at 2/6/2024, 3:02:37 PM
+Compilation started at 2/6/2024, 3:02:47 PM
+Compilation finished at 2/6/2024, 3:02:47 PM
+Compilation started at 2/6/2024, 3:03:05 PM
+Compilation finished at 2/6/2024, 3:03:06 PM
+Compilation started at 2/6/2024, 3:03:16 PM
+Compilation finished at 2/6/2024, 3:03:17 PM

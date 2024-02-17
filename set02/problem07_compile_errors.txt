@@ -1,0 +1,83 @@
+Compilation started at 2/12/2024, 4:00:06 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c: In function 'find_area':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:60:7: error: 't' is a pointer; did you mean to use '->'?
+     *t.area= 1/2*(t.base)*(t.altitude);
+       ^
+       ->
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:60:20: error: 't' is a pointer; did you mean to use '->'?
+     *t.area= 1/2*(t.base)*(t.altitude);
+                    ^
+                    ->
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:60:29: error: 't' is a pointer; did you mean to use '->'?
+     *t.area= 1/2*(t.base)*(t.altitude);
+                             ^
+                             ->
+Compilation finished at 2/12/2024, 4:00:06 PM
+Compilation started at 2/12/2024, 4:00:58 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c: In function 'find_area':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:60:7: error: 't' is a pointer; did you mean to use '->'?
+     *t.area-> 1/2*(t.base)*(t.altitude);
+       ^
+       ->
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:60:15: error: expected identifier before numeric constant
+     *t.area-> 1/2*(t.base)*(t.altitude);
+               ^
+Compilation finished at 2/12/2024, 4:00:58 PM
+Compilation started at 2/13/2024, 2:50:58 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c: In function 'find_area':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:60:14: error: 't' redeclared as different kind of symbol
+     triangle t;
+              ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:58:26: note: previous definition of 't' was here
+ void find_area(triangle *t)
+                          ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:61:6: error: invalid type argument of '->' (have 'triangle {aka struct _triangle}')
+     t->area = ((t->base)*(t->altitude))/2;
+      ^~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:61:18: error: invalid type argument of '->' (have 'triangle {aka struct _triangle}')
+     t->area = ((t->base)*(t->altitude))/2;
+                  ^~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:61:28: error: invalid type argument of '->' (have 'triangle {aka struct _triangle}')
+     t->area = ((t->base)*(t->altitude))/2;
+                            ^~
+Compilation finished at 2/13/2024, 2:50:58 PM
+Compilation started at 2/13/2024, 2:51:26 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c: In function 'find_area':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:60:14: error: 't' redeclared as different kind of symbol
+     triangle t;
+              ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:58:26: note: previous definition of 't' was here
+ void find_area(triangle *t)
+                          ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:61:6: error: invalid type argument of '->' (have 'triangle {aka struct _triangle}')
+     t->area = 0.5*t->base*t->altitude;
+      ^~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:61:20: error: invalid type argument of '->' (have 'triangle {aka struct _triangle}')
+     t->area = 0.5*t->base*t->altitude;
+                    ^~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:61:28: error: invalid type argument of '->' (have 'triangle {aka struct _triangle}')
+     t->area = 0.5*t->base*t->altitude;
+                            ^~
+Compilation finished at 2/13/2024, 2:51:26 PM
+Compilation started at 2/15/2024, 1:14:14 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c: In function 'find_area':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:60:14: error: 't' redeclared as different kind of symbol
+     triangle t;
+              ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:58:26: note: previous definition of 't' was here
+ void find_area(triangle *t)
+                          ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:61:6: error: invalid type argument of '->' (have 'triangle {aka struct _triangle}')
+     t->area = 0.5 * t->base * t->altitude;
+      ^~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:61:22: error: invalid type argument of '->' (have 'triangle {aka struct _triangle}')
+     t->area = 0.5 * t->base * t->altitude;
+                      ^~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02\problem07.c:61:32: error: invalid type argument of '->' (have 'triangle {aka struct _triangle}')
+     t->area = 0.5 * t->base * t->altitude;
+                                ^~
+Compilation finished at 2/15/2024, 1:14:14 PM
+Compilation started at 2/17/2024, 10:27:49 PM
+Compilation finished at 2/17/2024, 10:27:50 PM
+Compilation started at 2/17/2024, 10:28:02 PM
+Compilation finished at 2/17/2024, 10:28:02 PM

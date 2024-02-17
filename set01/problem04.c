@@ -33,6 +33,7 @@ int main()
 {
     int a=input();
     int b=input();
+    int sum=0;
     add(a,b,&sum);
     output(sum);
     return 0;
@@ -44,14 +45,13 @@ int input()
     int x;
     printf("enter the value");
     scanf("%d",&x);
-    return 0;
+    return x;
 
 }
 
 void add(int a, int b, int *sum)
 {
     *sum=a+b;
-
 }
 
 void output(int sum)

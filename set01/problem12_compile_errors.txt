@@ -1,0 +1,164 @@
+Compilation started at 2/5/2024, 11:18:51 PM
+Compilation finished at 2/5/2024, 11:18:52 PM
+Compilation started at 2/5/2024, 11:25:05 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:43:9: warning: implicit declaration of function 'get_n' [-Wimplicit-function-declaration]
+     n = get_n();
+         ^~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:45:5: warning: implicit declaration of function 'input_n_complex' [-Wimplicit-function-declaration]
+     input_n_complex(n, com);
+     ^~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:46:11: warning: implicit declaration of function 'add_n_complex' [-Wimplicit-function-declaration]
+     sum = add_n_complex(n,com);
+           ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:46:9: error: incompatible types when assigning to type 'c {aka struct complex}' from type 'int'
+     sum = add_n_complex(n,com);
+         ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:47:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(n,com,sum);
+     ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c: At top level:
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:67:6: warning: conflicting types for 'input_n_complex'
+ void input_n_complex(int n, c com[n])
+      ^~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:45:5: note: previous implicit declaration of 'input_n_complex' was here
+     input_n_complex(n, com);
+     ^~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:83:3: error: conflicting types for 'add_n_complex'
+ c add_n_complex(int n, c com[n])
+   ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:46:11: note: previous implicit declaration of 'add_n_complex' was here
+     sum = add_n_complex(n,com);
+           ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:93:6: warning: conflicting types for 'output'
+ void output(int n, c com[n], c result)
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:47:5: note: previous implicit declaration of 'output' was here
+     output(n,com,sum);
+     ^~~~~~
+Compilation finished at 2/5/2024, 11:25:05 PM
+Compilation started at 2/5/2024, 11:25:42 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:43:9: warning: implicit declaration of function 'get_n' [-Wimplicit-function-declaration]
+     n = get_n();
+         ^~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:45:5: warning: implicit declaration of function 'input_n_complex' [-Wimplicit-function-declaration]
+     input_n_complex(n, com);
+     ^~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:46:11: warning: implicit declaration of function 'add_n_complex' [-Wimplicit-function-declaration]
+     sum = add_n_complex(n,com);
+           ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:46:9: error: incompatible types when assigning to type 'c {aka struct complex}' from type 'int'
+     sum = add_n_complex(n,com);
+         ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:47:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(n,com,sum);
+     ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c: At top level:
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:67:6: warning: conflicting types for 'input_n_complex'
+ void input_n_complex(int n, c com[n])
+      ^~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:45:5: note: previous implicit declaration of 'input_n_complex' was here
+     input_n_complex(n, com);
+     ^~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:83:3: error: conflicting types for 'add_n_complex'
+ c add_n_complex(int n, c com[n])
+   ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:46:11: note: previous implicit declaration of 'add_n_complex' was here
+     sum = add_n_complex(n,com);
+           ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:93:6: warning: conflicting types for 'output'
+ void output(int n, c com[n], c result)
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:47:5: note: previous implicit declaration of 'output' was here
+     output(n,com,sum);
+     ^~~~~~
+Compilation finished at 2/5/2024, 11:25:43 PM
+Compilation started at 2/5/2024, 11:26:01 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:43:9: warning: implicit declaration of function 'get_n' [-Wimplicit-function-declaration]
+     n = get_n();
+         ^~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:45:5: warning: implicit declaration of function 'input_n_complex' [-Wimplicit-function-declaration]
+     input_n_complex(n, com);
+     ^~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:46:11: warning: implicit declaration of function 'add_n_complex' [-Wimplicit-function-declaration]
+     sum = add_n_complex(n,com);
+           ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:46:9: error: incompatible types when assigning to type 'c {aka struct complex}' from type 'int'
+     sum = add_n_complex(n,com);
+         ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:47:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(n,com,sum);
+     ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c: At top level:
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:67:6: warning: conflicting types for 'input_n_complex'
+ void input_n_complex(int n, c com[n])
+      ^~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:45:5: note: previous implicit declaration of 'input_n_complex' was here
+     input_n_complex(n, com);
+     ^~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:83:3: error: conflicting types for 'add_n_complex'
+ c add_n_complex(int n, c com[n])
+   ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:46:11: note: previous implicit declaration of 'add_n_complex' was here
+     sum = add_n_complex(n,com);
+           ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:93:6: warning: conflicting types for 'output'
+ void output(int n, c com[n], c result)
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:47:5: note: previous implicit declaration of 'output' was here
+     output(n,com,sum);
+     ^~~~~~
+Compilation finished at 2/5/2024, 11:26:01 PM
+Compilation started at 2/5/2024, 11:26:14 PM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:43:9: warning: implicit declaration of function 'get_n' [-Wimplicit-function-declaration]
+     n = get_n();
+         ^~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:45:5: warning: implicit declaration of function 'input_n_complex' [-Wimplicit-function-declaration]
+     input_n_complex(n, com);
+     ^~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:46:11: warning: implicit declaration of function 'add_n_complex' [-Wimplicit-function-declaration]
+     sum = add_n_complex(n,com);
+           ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:46:9: error: incompatible types when assigning to type 'c {aka struct complex}' from type 'int'
+     sum = add_n_complex(n,com);
+         ^
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:47:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(n,com,sum);
+     ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c: At top level:
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:67:6: warning: conflicting types for 'input_n_complex'
+ void input_n_complex(int n, c com[n])
+      ^~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:45:5: note: previous implicit declaration of 'input_n_complex' was here
+     input_n_complex(n, com);
+     ^~~~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:83:3: error: conflicting types for 'add_n_complex'
+ c add_n_complex(int n, c com[n])
+   ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:46:11: note: previous implicit declaration of 'add_n_complex' was here
+     sum = add_n_complex(n,com);
+           ^~~~~~~~~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:93:6: warning: conflicting types for 'output'
+ void output(int n, c com[n], c result)
+      ^~~~~~
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.c:47:5: note: previous implicit declaration of 'output' was here
+     output(n,com,sum);
+     ^~~~~~
+Compilation finished at 2/5/2024, 11:26:15 PM
+Compilation started at 2/5/2024, 11:31:37 PM
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/5/2024, 11:31:37 PM
+Compilation started at 2/5/2024, 11:31:41 PM
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/5/2024, 11:31:41 PM
+Compilation started at 2/5/2024, 11:32:02 PM
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem12.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/5/2024, 11:32:03 PM
+Compilation started at 2/5/2024, 11:32:53 PM
+Compilation finished at 2/5/2024, 11:32:53 PM

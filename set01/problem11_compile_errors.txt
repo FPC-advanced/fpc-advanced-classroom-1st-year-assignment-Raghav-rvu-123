@@ -1,0 +1,20 @@
+Compilation started at 2/6/2024, 9:55:58 AM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem11.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem11.c:86:5: warning: implicit declaration of function 'ouptput' [-Wimplicit-function-declaration]
+     ouptput(a,b,sum);
+     ^~~~~~~
+C:\Users\Dell\AppData\Local\Temp\ccE3PqSO.o: In function `main':
+c:/Users/Dell/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123/set01/problem11.c:86: undefined reference to `ouptput'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/6/2024, 9:55:58 AM
+Compilation started at 2/6/2024, 9:56:14 AM
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem11.c: In function 'main':
+c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set01\problem11.c:86:5: warning: implicit declaration of function 'ouptput' [-Wimplicit-function-declaration]
+     ouptput(a,b,sum);
+     ^~~~~~~
+C:\Users\Dell\AppData\Local\Temp\ccUbEy4L.o: In function `main':
+c:/Users/Dell/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123/set01/problem11.c:86: undefined reference to `ouptput'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/6/2024, 9:56:14 AM
+Compilation started at 2/6/2024, 9:56:32 AM
+Compilation finished at 2/6/2024, 9:56:32 AM

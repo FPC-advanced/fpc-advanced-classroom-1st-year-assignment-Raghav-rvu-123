@@ -1,0 +1,11 @@
++br
+No default breakpoint address now.
++r
+Starting program: c:\Users\Dell\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Raghav-rvu-123\set02/./problem06.exe 
+[New Thread 752.0x3c70]
+[New Thread 752.0x2ca4]
+[Inferior 1 (process 752) exited normally]
++q
++q
++quit
++q
